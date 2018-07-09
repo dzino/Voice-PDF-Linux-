@@ -21,4 +21,4 @@ Russian language.
     
 **Read the file**
 
-    python3 voice.py -r filePDF:5:7
+    python3 voice.py -r filePDF.pdf:5:7
